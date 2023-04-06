@@ -15,6 +15,7 @@ A repo modified for bypassing Widevine L3 DRM and obtaining keys.
 Copyright Information: This project came from [WKS-KEY](https://github.com/weapon121/WKS-KEY), and [WKS-KEY](https://github.com/weapon121/WKS-KEY) was forked from [WKS-KEY](https://github.com/WKS-uwu/WKS-KEY). I'd like to express my sincerest thanks to both developers [WKS-uwu](https://github.com/WKS-uwu) and [weapon121](https://github.com/weapon121). In case [this modified version](https://github.com/CrymanChen/WKS-KEYS) unintentionally infringes upon your interests, please contact me as soon as possible. This project is purely for personal learning and convenience, without any commercial purpose. This also means that if the modifications made to your project are unintentionally harmful, please contact me immediately.
 
 ## Usage (Chinese Simplified)
+本项目需要一定的专业知识(A bit technical), 如果您对该领域不了解, 请不要进行尝试, 我亦不会对相应问题进行解答, 敬请谅解。
 
 ### 需要预先准备的东西
 1. 本程序(WKS-KEYS.zip)  
